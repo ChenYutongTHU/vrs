@@ -30,7 +30,7 @@
 #include <vrs/helpers/EnumStringConverter.h>
 #include <vrs/helpers/FileMacros.h>
 
-#include "ErrorCode.h"
+//#include "ErrorCode.h"
 #include "FileHandler.h"
 #include "Record.h"
 
